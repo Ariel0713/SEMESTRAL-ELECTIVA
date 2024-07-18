@@ -1,0 +1,1 @@
+El presente proyecto se centra en la creación de un sistema capaz de inspirar a los estudiantes de música utilizando una base de datos de sonidos de teclas de piano y dos canciones de ejemplo. Estos recursos existentes se emplearán como base para entrenar el sistema, permitiéndole aprender y generar nuevas melodías de manera autónoma.
